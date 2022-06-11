@@ -17,7 +17,7 @@
 
 
 
-
+![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=adarsh_2141&theme=1)
 
 
 <br /> <br /> <br />
