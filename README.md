@@ -3,7 +3,7 @@
   <img align="left" alt="Adarsh Tiwari | Codechef" width="40px" src="https://user-images.githubusercontent.com/62543734/115986961-8cdce700-a5d0-11eb-8ed5-b43215278687.jpg" />
 </a>
 <a href="https://www.instagram.com/_t_adarsh/">
-  <img align="left" alt="Adarsh Tiwari | instagram" width="40px" src="https://user-images.githubusercontent.com/62543734/115987193-9b77ce00-a5d1-11eb-85b6-ab2bc1715d7c.jpg" />
+  <img align="left" alt="Adarsh Tiwari | Instagram" width="40px" src="https://user-images.githubusercontent.com/62543734/115987193-9b77ce00-a5d1-11eb-85b6-ab2bc1715d7c.jpg" />
 </a>
 <a href="https://www.linkedin.com/in/adarsh-tiwari-333487189/">
   <img align="left" alt="Rathin R|LinkedIn" width="40px" src="https://user-images.githubusercontent.com/62543734/115987548-20afb280-a5d3-11eb-86ed-7e0cd89f0be3.png" />
@@ -21,12 +21,12 @@
 
 
 <br />
-:books: 3rd year student pursuing Integrated B.Tech + M.Tech Information Technology from [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/).
+:books: Final year student pursuing Integrated B.Tech + M.Tech Information Technology from [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/).
 ***
 
 
 ## :1st_place_medal: **Skills** 
-**MERN stack Development, Cryptography, Web Development, Competitive Coding, Front-End developement, HTML, CSS, React, Javascript, C++, C**
+**MERN stack Development, Cryptography, Web Development, Competitive Coding, Front-End development, HTML, CSS, React, Javascript, C++, C**
 
 ***
 
