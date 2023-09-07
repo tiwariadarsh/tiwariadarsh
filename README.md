@@ -17,8 +17,6 @@
 
 <br /> <br />
 
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=adarsh_2141&theme=2)
-
 
 <br />
 :books: Final year student pursuing Integrated B.Tech + M.Tech Information Technology from [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/).
