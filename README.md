@@ -1,14 +1,11 @@
 ### Hi there, I'm [Adarsh Tiwari!](https://github.com/tiwariadarsh) 👋
-<a href="https://www.codechef.com/users/runtime_error2">
-  <img align="left" alt="Adarsh Tiwari | Codechef" width="40px" src="https://user-images.githubusercontent.com/62543734/115986961-8cdce700-a5d0-11eb-8ed5-b43215278687.jpg" />
-</a>
 <a href="https://www.instagram.com/_t_adarsh/">
   <img align="left" alt="Adarsh Tiwari | Instagram" width="40px" src="https://user-images.githubusercontent.com/62543734/115987193-9b77ce00-a5d1-11eb-85b6-ab2bc1715d7c.jpg" />
 </a>
 <a href="https://www.linkedin.com/in/adarsh-tiwari-333487189/">
   <img align="left" alt="Rathin R|LinkedIn" width="40px" src="https://user-images.githubusercontent.com/62543734/115987548-20afb280-a5d3-11eb-86ed-7e0cd89f0be3.png" />
 </a>
-<a href="https://codeforces.com/profile/adarsh_2141">
+<a href="https://codeforces.com/profile">
   <img align="left" alt="Rathin R|  CodeForces" width="40px" src="https://user-images.githubusercontent.com/62543734/115990917-82781880-a5e3-11eb-9099-a2cf3c1e30e8.png" />
 </a>
 <a href="https://atcoder.jp/users/adarsh_2141">
